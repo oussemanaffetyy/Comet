@@ -16,7 +16,7 @@ test-results/
 *.app
 
 # content below from: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
-# General
+# General 
 .DS_Store
 .AppleDouble
 .LSOverride
